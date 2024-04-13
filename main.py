@@ -19,8 +19,7 @@ from PIL import Image
 from requestez import Session
 import requests
 from bs4 import BeautifulSoup
-import cv2
-import numpy as np
+
 
 session = Session()
 
